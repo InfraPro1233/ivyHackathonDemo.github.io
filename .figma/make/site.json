@@ -1,0 +1,10 @@
+{
+  "description": "This financial publication offers users an intelligent Q&A experience, delivering clear insights and actionable information in a calm, uncluttered design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
